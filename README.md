@@ -34,3 +34,20 @@ This application is designed for internal company use and focuses on simplicity,
 ---
 
 ## 🧱 Project Structure
+ZeeK/
+│
+├── Forms/ # WinForms UI
+├── Models/ # Data models
+├── Database/ # DB connection & queries
+├── Services/ # Business logic
+├── Program.cs # Application entry point
+└── README.md
+
+
+---
+
+## ⚙️ Setup Instructions
+
+### 1️⃣ Clone the Repository
+```bash
+git clone https://github.com/your-username/your-repo-name.git
